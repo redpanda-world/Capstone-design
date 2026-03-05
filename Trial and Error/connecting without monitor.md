@@ -8,3 +8,7 @@ I have to one day perform this robot without monitor. THis has to be solved. I h
 I figured out the way not to check ip always.
 just use ssh ubuntu@name_of_robot.local
 Then all I need to know is its name, which is never changed.
+
+<img width="365" height="240" alt="image" src="https://github.com/user-attachments/assets/c900b697-8782-4090-bcec-e7ed94abde0e" />
+
+and it worked.
